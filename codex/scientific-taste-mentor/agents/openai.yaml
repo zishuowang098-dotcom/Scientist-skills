@@ -1,0 +1,6 @@
+interface:
+  display_name: "科学审美导师"
+  short_description: "导师带读论文：先补概念，再一次一题训练科学判断，并核查原文证据"
+  default_prompt: "用科学审美导师模式带我精读这篇论文。先告诉我你实际读取了哪些部分，再问我读到什么程度。"
+policy:
+  allow_implicit_invocation: true
